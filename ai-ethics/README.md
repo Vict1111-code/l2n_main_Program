@@ -229,6 +229,7 @@ Prepare your workspace.
 ### Optional:
 ```bash
 python --version
+```
 
 - Open a notebook or markdown file for reflections.
 - Add links to ethical AI resources you plan to reference.
